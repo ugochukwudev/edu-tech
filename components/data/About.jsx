@@ -26,11 +26,9 @@ const About = () => {
         data-aos-delay="450"
         className=" w-10/12 md:w-6/12 text-base font-medium mr-auto ml-auto "
       >
-        Learn Quickly, is an online educational platform made for those with
-        prior knowledge at heart. It's default goal is to make you see the fun
-        in education while testing yourself with other people like you. Students
-        all over the world are allowed to contest and learn from our amazing
-        curriculum. thanks for joining us.
+        {
+          "Learn Quickly, is an online educational platform made for those with prior knowledge at heart. It's default goal is to make you see the fun in education while testing yourself with other people like you. Students all over the world are allowed to contest and learn from our amazing curriculum. thanks for joining us."
+        }
       </p>
     </div>
   );

@@ -21,11 +21,9 @@ const Recent = () => {
         data-aos-delay="450"
         className=" w-10/12 md:w-6/12 text-base font-medium mr-auto ml-auto "
       >
-        Once in a while, we host Events to trigger that in built spirit of a
-        winner in you . Our events don't just provide you with a present but
-        also, shows you your weaknesses thereby, giving you an opportunity to
-        reduce your Achilles heel. click the button below, to be updated
-        whenever we have an event.
+        {
+          "Once in a while, we host Events to trigger that in built spirit of a winner in you . Our events don't just provide you with a present but also, shows you your weaknesses thereby, giving you an opportunity to reduce your Achilles heel. click the button below, to be updated  whenever we have an event."
+        }
       </p>
       <div className=" w-10/12 md:w-5/12 ml-auto mr-auto mt-4">
         <button
